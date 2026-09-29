@@ -6,7 +6,7 @@
 
 </div>
 
-## Android Layout and Types (Linear, Relative, Table, Absaolute, Constraint)
+## Android Layout and Types (Linear, Relative, Table, Absolute, Constraint)
 -----------------------------------------------------------------------------
 A ``Layout`` defines the structure for a user interface in your app, such as in an activity. All elements in the layout are built using a hierarchy of ``View`` and ``ViewGroup`` objects. 
 
